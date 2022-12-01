@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(235, 241, 148);}
+    .fonte1{
+     background-image: url(imagem/DNA.webp);
+     font-family: sans-serif;
+     padding: 1cm;
+ text-align: center;}
+ .fonte3{
+    text-align: center;
+    background-image: url(imagem/images\ \(22\).jfif);
+ }
+ p { 
+    font-size: 20px;
+}
+.imagem1{
+    width: 400px;
+   
+
+}
+.fonte2{
+    text-align: center;
+background-color: darkgreen;
+}
+.imagem2{
+    width: 400px;
+    
+    
+}
+.imagem3{
+   
+    text-align: center;
+    width: 400px;
+   
+    
+}
+    .fonte3{
+        text-align: width center;
+        background-image: url(imagem/download\ \(18\).jfif);
+        
+    }
+    .imagem4{
+        width: 400px;
+       
+    }
+
+    .fonte4{
+        text-align: center;
+        background-color: green;
+    }
+    

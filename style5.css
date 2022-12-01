@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(5, 238, 180);
+}
+body{
+    background-color: rgb(174, 239, 248);}
+    .fonte1{
+     background-image: url(imagem/dados-sao-o-petroleo-do-seculo-xxi.-como-negocios-podem-se-tornar-mais-eficientes.pptx.webp);
+     font-family: sans-serif;
+     padding: 1cm;
+     color: white;
+ text-align: center;}
+ .fonte2{
+    text-align: center;
+ background-color: blue;}
+    
+ p{
+    font-size: 20px;
+ }
+ .fonte3{
+    text-align: center;
+    background-color: rgb(47, 102, 255);
+ }

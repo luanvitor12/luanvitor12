@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(171, 211, 238);}
+    .fonte1{
+     background-image: url(imagem/DNA.webp);
+     font-family: sans-serif;
+     padding: 1cm;
+ text-align: center;}
+
+ .fonte2{
+    text-align: center;
+    background-color: darkgreen;
+    color: white;
+ }
+ .fonte3{
+    text-align: center;
+    background-image: url(imagem/images.jfif);
+    color: white;
+ }
+ .imagem1{
+   width: 400px;
+ }
+ p { 
+    font-size: 20px;
+}
+.fonte4{
+    text-align: center;
+    background-image: url(imagem/paleoceno\ \(3\).png);
+    color: white;
+}
+.imagem2{ 
+    width: 400px;
+    
+
+
+}
+.imagem3{
+    width: 400px;
+    
+}
+.fonte5{
+
+    text-align: center;
+    background-image: url(imagem/download\ \(13\).jfif);
+    
+}
+.imagem4{
+    width: 400px;
+    
+
+}
+.fonte6{
+    text-align: center;
+    background-image: url(imagem/download\ \(14\).jfif);
+    color: white;
+}
+.imagem5{
+    width: 400px;
+    
+
+}
+.fonte7{
+    text-align: center;
+    background-image: url(imagem/download\ \(16\).jfif);
+    color: white;
+}
+.imagem6{
+    width: 400px;
+   
+}
+.fonte8{
+    text-align: center;
+    background-image: url(imagem/download\ \(17\).jfif);
+    
+}
+.imagem7{
+    width: 400px;
+    
+}
+.fonte9{
+    text-align: center;
+    background-image: url(imagem/download\ \(18\).jfif);
+
+
+    
+}
+.imagem8{
+    width: 400px;
+    
+
+}
+
+
+
+
+
+
